@@ -241,3 +241,5 @@ class Student {
     return (averageGrade + attendancePercentage) / 2;
   }
 }
+
+// added branch
